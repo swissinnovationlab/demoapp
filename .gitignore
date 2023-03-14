@@ -8,3 +8,5 @@
 /.gradle/7.6.1/gc.properties
 /.gradle/vcs-1/gc.properties
 /.gradle/7.6.1/fileChanges/last-build.bin
+
+*.war
